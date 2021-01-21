@@ -3,6 +3,7 @@
 [ext_resource path="res://Raquete/Raquete.png" type="Texture" id=1]
 
 [sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 10, 40 )
 
 [node name="Raquete" type="KinematicBody2D"]
 
